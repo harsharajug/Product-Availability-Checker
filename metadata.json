@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Product Availability Checker",
+  "description": "An intelligent web application that checks the availability, price, and details of an Amazon product by analyzing its URL using the Gemini API.",
+  "requestFramePermissions": []
+}
